@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  TableApp
 //
-//  Created by comp on 2.12.22.
+//  Created by comp on 4.12.22.
 //
 
 import UIKit
